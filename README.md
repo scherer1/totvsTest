@@ -1,11 +1,11 @@
 # totvsTest
 
-#Questão 1 - 
+# Questão 1 - 
 
 Visto que não havia um contexto da imagem envolvido na questão me baseei que seria um sistema de acompanhamento da agenda e dos clientes de um representante.
 
 
-#Questão 2
+# Questão 2
 
 Realizei os testes através do Cypress utilizando o Visual Studio Code.
 Arquivo .rar presente no repositório encontra-se uma pasta, basta extrair a mesma e abrir no Visual Studio Code, após isso executar o cypress e posteriormente os 2 testes.
